@@ -8,10 +8,9 @@ Gain insights into the significance of attributes and methods within classes and
 ### Declaration of Attributes in Classes
 Understand the process of declaring attributes within classes, defining the characteristics of objects.
 
-### Instance Attributes
+- **Instance Attributes**
 Explore instance attributes, variables specific to individual instances of a class.
-
-### Class Attributes
+- **Class Attributes**
 Learn about class attributes, properties shared among all instances of a class.
 
 ### Defining Methods in Classes
