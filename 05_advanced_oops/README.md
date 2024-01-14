@@ -40,8 +40,8 @@ Explore magic methods in Python, special methods with double underscores that pr
 ### Overloading Comparison Operators
 - `__eq__`, `__ne__`, `__lt__`, `__gt__`, etc.: Explore the overloading of comparison operators, allowing customized comparisons between objects.
 
-### Customizing Attribute Access with getattr and setattr
-Understand how to customize attribute access using the getattr and setattr magic methods.
+### Customizing Attribute Access with `__getattr__` and `__setattr__`
+Understand how to customize attribute access using the `__getattr__` and `__setattr__` magic methods.
 
 ### Use Cases for Magic Methods and Operator Overloading
 Explore practical scenarios where magic methods and operator overloading enhance the functionality and usability of classes.
